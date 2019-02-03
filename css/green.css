@@ -1,0 +1,20 @@
+body {
+	background: url("../img/hojas.jpg");
+	background-attachment: fixed;			/*si hago scroll abajo no se me acaba la img, se mantiene fija*/
+}
+
+#logo {
+	background: #235E3D;
+}
+
+#menu ul li:hover {		/*cuando pasemos por encima con el cursor en cualquier elemento li*/
+	background: #235E3D;
+}
+
+.button-more {
+	background: #235E3D;
+}
+
+.ui-accordion-header.ui-state-active {
+	background-color: #235E3D;
+}

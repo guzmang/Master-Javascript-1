@@ -1,0 +1,20 @@
+body {
+	background: url("../img/rojo.jpg");
+	background-attachment: fixed;			/*si hago scroll abajo no se me acaba la img, se mantiene fija*/
+}
+
+#logo {
+	background: #CA3413;
+}
+
+#menu ul li:hover {		/*cuando pasemos por encima con el cursor en cualquier elemento li*/
+	background: #CA3413;
+}
+
+.button-more {
+	background: #CA3413;
+}
+
+.ui-accordion-header.ui-state-active {
+	background-color: #CA3413;
+}
